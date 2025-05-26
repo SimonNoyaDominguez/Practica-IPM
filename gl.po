@@ -1,0 +1,94 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ipm-2324-p1-grupo_65\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-10-23 9:12+CET\n"
+"PO-Revision-Date: 2023-10-23 23:38+0200\n"
+"Last-Translator: \n"
+"Language-Team: Spanish\n"
+"Language: gl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#: controller.py:32 controller.py:65
+msgid ""
+"No ha ingresado el nombre del cóctel. Por favor, escriba el nombre del "
+"cóctel."
+msgstr ""
+"Non ingresaches o nome do cóctel. Por favor, escriba de novo o nome "
+"do cóctel."
+
+#: controller.py:49 controller.py:74
+msgid "Error al buscar el cóctel"
+msgstr "Erro ao buscar o cóctel"
+
+#: controller.py:52 controller.py:60 controller.py:76
+msgid "Error de conexión a la API"
+msgstr "Erro de conexión coa API"
+
+#: controller.py:68
+msgid "Radmon cocktail not found"
+msgstr "Cóctel aleatorio non encontrado"
+
+#: view.py:37
+msgid "Watch"
+msgstr "Busqueda"
+
+#: view.py:49
+msgid "Búsqueda de cóctel aleatorio"
+msgstr "Busca de cóctel aleatorio"
+
+#: view.py:84
+msgid "Volver"
+msgstr "Volver"
+
+#: view.py:94
+msgid "Ver"
+msgstr "Ver"
+
+#: view.py:106
+msgid "Salir"
+msgstr "Sair"
+
+#: view.py:141 view.py:168
+msgid "Nombre no disponible"
+msgstr "Nome non dispoñible"
+
+#: view.py:142 view.py:169
+msgid "Name: "
+msgstr "Nome: "
+
+#: view.py:145 view.py:171
+msgid "Categoría no disponible"
+msgstr "Categoría non dispoñible"
+
+#: view.py:145 view.py:172
+msgid "Category: "
+msgstr "Categoría: "
+
+#: view.py:174
+msgid "Tipo de vaso no disponible"
+msgstr "Tipo de vaso non dispoñible"
+
+#: view.py:175
+msgid "Glass type: "
+msgstr "Tipo de vaso: "
+
+#: view.py:177
+msgid "Instrucciones no disponibles"
+msgstr "Instrucións non dispoñibles"
+
+#: view.py:176
+msgid "Instructions: "
+msgstr "Instrucións: "
+
+#: view.py:184
+msgid "Ingredient"
+msgstr "Ingredientes"
+
+#: view.py:209
+msgid "Error"
+msgstr "Erro"

@@ -1,0 +1,147 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ipm-2324-p1-grupo_65\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-10-23 9:12+CET\n"
+"PO-Revision-Date: 2023-10-23 9:12+CET\n"
+"Last-Translator: Simon Noya Dominguez <simon.noyad@udc.es>\n"
+"Language-Team: LANGUAGE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+
+
+#: controller.py:25
+msgid "No ha ingresado el nombre del cóctel. Por favor, escribe el nombre de cóctel"
+msgstr ""
+
+#: controller.py:47
+msgid "Error al buscar el cóctel"
+msgstr ""
+
+#: controller.py:50
+msgid "Error de conexión a la API"
+msgstr ""
+
+#: controller.py:64
+msgid "Radmon cocktail not found"
+msgstr ""
+
+#: controller.py:66
+msgid "Error de conexión a la API"
+msgstr ""
+
+#: controller.py:71
+msgid "No ha ingresado el nombre del cóctel. Por favor, escribe el nombre de cóctel"
+msgstr ""
+
+#: controller.py:93
+msgid "Error al buscar el cóctel"
+msgstr ""
+
+#: controller.py:95
+msgid "Error de conexión a la API"
+msgstr ""
+
+#: view.py:32
+msgid "Buscar"
+msgstr ""
+
+#: view.py:44
+msgid "Busqueda de cóctel aleatorio"
+msgstr ""
+
+#: view.py:79
+msgid "Volver"
+msgstr ""
+
+#: view.py:101
+msgid "Salir"
+msgstr ""
+
+#: view.py:138
+msgid "Nombre no disponible"
+msgstr ""
+
+#: view.py:139
+msgid "Name"
+msgstr ""
+
+#: view.py:141
+msgid "Categoría no disponible"
+msgstr ""
+
+#: view.py:142
+msgid "Category"
+msgstr ""
+
+#: view.py:165
+msgid "Nombre no disponible"
+msgstr ""
+
+#: view.py:166
+msgid "Name"
+msgstr ""
+
+#: view.py:168
+msgid "Categoría no disponible"
+msgstr ""
+
+#: view.py:169
+msgid "Category"
+msgstr ""
+
+#: view.py:171
+msgid "Tipo de vaso no disponible"
+msgstr ""
+
+#: view.py:172
+msgid "Glass type"
+msgstr ""
+
+#: view.py:174
+msgid "Instrucciones no disponibles"
+msgstr ""
+
+#: view.py:175
+msgid "Instructions"
+msgstr ""
+
+#: view.py:181
+msgid "Ingredient"
+msgstr ""
+
+#: view.py:206
+msgid "Error"
+msgstr ""
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
